@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.8.1",
+    "express": "^4.18.1",
+    "http-simple-proxy": "^1.0.5",
+    "https-proxy-agent": "^5.0.1"
+  }
+}
